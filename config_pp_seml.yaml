@@ -50,7 +50,7 @@ fixed:
 
   batch_size: 32
   evaluation_interval: 10000
-  save_interval: 10000
+  save_interval: 10
   restart: None
   comment: "DimeNet++"
 
